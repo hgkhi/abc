@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <stddef.h>
 
 /**
  * Runtime: O(n)
