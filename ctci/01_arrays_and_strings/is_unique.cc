@@ -20,6 +20,10 @@ bool has_unique_char(const string& data)
 	return true;
 }
 
+/**
+ * Runtime: O(n^2)
+ * Space: O(1)
+ */
 bool has_unique_char_2(const string& data)
 {
 	for (int i = 0; i < data.size(); ++i) {
