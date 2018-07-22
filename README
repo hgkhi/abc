@@ -1,0 +1,3 @@
+| Problem       | Description                                                  | Category | Location                                    |
+| ------------- | ------------------------------------------------------------ | -------- | ------------------------------------------- |
+| Rotate Matrix | Given an NxN matrix, rotate it in-place 90 degree clockwise. | Array    | ctci/01_arrays_and_strings/rotate_matrix.cc |
