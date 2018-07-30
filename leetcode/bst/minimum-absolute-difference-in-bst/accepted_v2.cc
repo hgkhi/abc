@@ -21,7 +21,7 @@ private:
     {
         // Get the leftmost
         if (root->left != nullptr) {
-            getMinimumDifference(root->left);   // Huge bug!
+            dfs(root->left);
             leftmost[root] = leftmost[root->left];
         } else {
             leftmost[root] = root->val;
@@ -29,7 +29,7 @@ private:
         
         // Get the rightmost
         if (root->right != nullptr) {
-            getMinimumDifference(root->right);  // Huge bug!
+            dfs(root->right);
             rightmost[root] = rightmost[root->right];
         } else {
             rightmost[root] = root->val;
