@@ -1,3 +1,25 @@
+TOPICS
+======
+    
+    * Array
+    * Linked List
+    * Stack & Queues
+    * Trees & Graphs
+    * Bit Manipulation
+    * Math & Logic Puzzles
+    * OOP design
+    * Recursion & Dynamic Programming
+    * System Design & Scalability
+    * Sorting & Searching
+    * Testing
+    * Concept C/C++
+    * Concept Java
+    * Database
+    * Threads & Locks
+
+INTERESTING PROBLEMS
+====================
+
 | Problem       | Description | Category             | Location                                    |
 | ------------- | ----------- | -------------------- | ------------------------------------------- |
 | Rotate Matrix | CTCI 1.7    | Array                | ctci/01_arrays_and_strings/rotate_matrix.cc |
