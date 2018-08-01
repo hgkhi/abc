@@ -1,4 +1,4 @@
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -13,7 +13,8 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
+    ListNode* reverseList(ListNode* head)
+    {
         if (head == nullptr) {
             return nullptr;
         }
