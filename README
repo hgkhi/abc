@@ -1,44 +1,39 @@
 TOPICS
 ======
 
-Topics to be covered (so far) and its total deliberate practice sessions
-(25 or 30mins/session)
+    Topics to be covered (so far) and its total deliberate practice sessions
+    (25 or 30mins/session)
 
-| Topic                       | Sessions |
-| --------------------------- | -------- |
-| Array                       |        5 |
-| Linked List                 |        2 |
-| Stack & Queue               |        0 |
-| BST                         |        5 |
-| Graph/Tree                  |        0 |
-| Bit Manipulation            |        0 |
-| Math & Logic                |        0 |
-| OOP Design                  |        0 |
-| Recursion & DP              |        0 |
-| System Design & Scalibility |        0 |
-| Sorting & Searching         |        0 |
-| Testing                     |        0 |
-| Concept: C/C++              |        0 |
-| Concept: Java               |        0 |
-| Database                    |        0 |
-| Threads & Locks             |        0 |
+    | Topic                       | Sessions |
+    | --------------------------- | -------- |
+    | Array                       |        5 |
+    | Linked List                 |        3 |
+    | Stack & Queue               |        5 |
+    | BST                         |        5 |
+    | Graph/Tree                  |        0 |
+    | Bit Manipulation            |        0 |
+    | Math & Logic                |        0 |
+    | OOP Design                  |        0 |
+    | Recursion & DP              |        0 |
+    | System Design & Scalibility |        0 |
+    | Sorting & Searching         |        0 |
+    | Testing                     |        0 |
+    | Concept: C/C++              |        0 |
+    | Concept: Java               |        0 |
+    | Database                    |        0 |
+    | Threads & Locks             |        0 |
 
 COMPETITIONS
 ============
-
-Competition's record goes here, not sure what to put in here yet.
+    
+    N/A
 
 DEBT
 ====
-
-Problems that I am completely clueless and don't know how the fuck to solve it
-(optimally), when the total number of debt problems reaches 10, I will flush it
-(read hints, see other people's ideas..., just to fucking solve it)
-
-________________________________________________________________________________
+    ___________________________________________________________________________
     0. https://leetcode.com/problems/reverse-pairs/description/
     1. https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
-    2.
+    2. https://leetcode.com/problems/reverse-linked-list/description/ - Recursive
     3.
     4.
     5.
@@ -46,15 +41,11 @@ ________________________________________________________________________________
     7.
     8.
     9.
-________________________________________________________________________________
-stop_it_get_some_help.jpg
+    ___________________________________________________________________________
 
 TASKS
 =====
-
-Not as serious as debt, but necessary to execute it, flush when it reaches 10.
-
-________________________________________________________________________________
+    ___________________________________________________________________________
     0. Check answers for CTCI Arrays
     1. Check answers for CTCI Stacks & Queues
     2.
@@ -65,4 +56,4 @@ ________________________________________________________________________________
     7.
     8.
     9.
-________________________________________________________________________________
+    ___________________________________________________________________________
