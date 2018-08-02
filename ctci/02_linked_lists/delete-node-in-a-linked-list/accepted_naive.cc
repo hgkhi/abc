@@ -6,6 +6,14 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+/**
+ * Runtime  O(n)
+ * Space    O(1)
+ *
+ * Naive as fuck!
+ */
+
 class Solution {
 public:
     void deleteNode(ListNode* node)
