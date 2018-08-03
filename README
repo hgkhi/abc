@@ -1,27 +1,28 @@
 TOPICS
 ======
 
-    Topics to be covered (so far) and its total deliberate practice sessions
-    (25 or 30mins/session)
+  Topics to be covered (so far) and its total deliberate practice sessions 
+  (25 or 30mins/session)
 
-    | Topic                       | Sessions |
-    | --------------------------- | -------- |
-    | Array                       |        5 |
-    | Linked List                 |        4 |
-    | Stack & Queue               |        5 |
-    | BST                         |        5 |
-    | Graph/Tree                  |        0 |
-    | Bit Manipulation            |        0 |
-    | Math & Logic                |        0 |
-    | OOP Design                  |        0 |
-    | Recursion & DP              |        0 |
-    | System Design & Scalibility |        0 |
-    | Sorting & Searching         |        0 |
-    | Testing                     |        0 |
-    | Concept: C/C++              |        0 |
-    | Concept: Java               |        0 |
-    | Database                    |        0 |
-    | Threads & Locks             |        0 |
+  | Topic                       | Sessions |
+  | --------------------------- | -------- |
+  | Array                       |        5 |
+  | Linked List                 |        0 |
+  | Stack & Queue               |        0 |
+  | BST                         |        5 |
+  | Graph/Tree                  |        0 |
+  | Bit Manipulation            |        0 |
+  | Math & Logic                |        0 |
+  | OOP Design                  |        0 |
+  | Recursion                   |        0 |
+  | Dynamic Programming         |        1 |
+  | System Design & Scalibility |        0 |
+  | Sorting & Searching         |        0 |
+  | Testing                     |        0 |
+  | Concept: C/C++              |        0 |
+  | Concept: Java               |        0 |
+  | Database                    |        0 |
+  | Threads & Locks             |        0 |
 
 COMPETITIONS
 ============
