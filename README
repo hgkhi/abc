@@ -7,8 +7,8 @@ TOPICS
   | Topic                       | Sessions |
   | --------------------------- | -------- |
   | Array                       |        5 |
-  | Linked List                 |        0 |
-  | Stack & Queue               |        0 |
+  | Linked List                 |        4 |
+  | Stack & Queue               |        5 |
   | BST                         |        5 |
   | Graph/Tree                  |        0 |
   | Bit Manipulation            |        0 |
@@ -23,6 +23,7 @@ TOPICS
   | Concept: Java               |        0 |
   | Database                    |        0 |
   | Threads & Locks             |        0 |
+
 
 COMPETITIONS
 ============
