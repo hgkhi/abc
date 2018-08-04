@@ -1,28 +1,46 @@
-TOPICS
-======
+Leetcode
+========
 
-  Topics to be covered (so far) and its total deliberate practice sessions 
-  (25 or 30mins/session)
+  Topics from LeetCode. A session lasts 30 mins.
 
-  | Topic                       | Sessions |
-  | --------------------------- | -------- |
-  | Array                       |        5 |
-  | Linked List                 |        4 |
-  | Stack & Queue               |        5 |
-  | BST                         |        5 |
-  | Graph/Tree                  |        0 |
-  | Bit Manipulation            |        0 |
-  | Math & Logic                |        0 |
-  | OOP Design                  |        0 |
-  | Recursion                   |        0 |
-  | Dynamic Programming         |        1 |
-  | System Design & Scalibility |        0 |
-  | Sorting & Searching         |        0 |
-  | Testing                     |        0 |
-  | Concept: C/C++              |        0 |
-  | Concept: Java               |        0 |
-  | Database                    |        0 |
-  | Threads & Locks             |        0 |
+  | Topic               | Sessions |
+  | ------------------- | -------- |
+  | Array               |        5 |
+  | Hash Table          |        0 |
+  | Linked List         |        4 |
+  | Math                |        0 |
+  | Two Pointers        |        0 |
+  | String              |        0 |
+  | Binary Search       |        0 |
+  | Divide & Conquer    |        0 |
+  | Dynamic Programming |        4 |
+  | Backtracking        |        0 |
+  | Stack               |        5 |
+  | Queue               |        5 |
+  | Heap                |        0 |
+  | Greedy              |        0 |
+  | Sort                |        0 |
+  | Bit Manipulation    |        0 |
+  | Tree                |        0 |
+  | DFS                 |        0 |
+  | BFS                 |        0 |
+  | Union Find          |        0 |
+  | Graph               |        0 |
+  | Design              |        0 |
+  | Topological Sort    |        0 |
+  | Trie                |        0 |
+  | Binary Indexed Tree |        0 |
+  | Segment Tree        |        0 |
+  | Binary Search Tree  |        5 |
+  | Recursion           |        0 |
+  | Brainteaser         |        0 |
+  | Memoization         |        0 |
+  | Min Max             |        0 |
+  | Reservoir Sampling  |        0 |
+  | Geometry            |        0 |
+  | Map                 |        0 |
+  | Random              |        0 |
+  | Rejection Sampling  |        0 |
 
 
 COMPETITIONS
@@ -36,13 +54,8 @@ DEBT
     0. https://leetcode.com/problems/reverse-pairs/description/
     1. https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
     2. https://leetcode.com/problems/reverse-linked-list/description/ - Recursive
-    3.
-    4.
-    5.
-    6.
-    7.
-    8.
-    9.
+    3. https://leetcode.com/problems/climbing-stairs/description/
+    4. https://leetcode.com/problems/house-robber/
     ___________________________________________________________________________
 
 TASKS
@@ -50,12 +63,6 @@ TASKS
     ___________________________________________________________________________
     0. Check answers for CTCI Arrays
     1. Check answers for CTCI Stacks & Queues
-    2.
-    3.
-    4.
-    5.
-    6.
-    7.
-    8.
-    9.
+    2. Write a tutorial about Coin Exchange problem
+    3. House robbing memory optimization?
     ___________________________________________________________________________

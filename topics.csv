@@ -1,18 +1,37 @@
 Topic,Sessions
 Array,5
+Hash Table,0
 Linked List,4
-Stack & Queue,5
-BST,5
-Graph/Tree,0
+Math,0
+Two Pointers,0
+String,0
+Binary Search,0
+Divide & Conquer,0
+Dynamic Programming,4
+Backtracking,0
+Stack,5
+Queue,5
+Heap,0
+Greedy,0
+Sort,0
 Bit Manipulation,0
-Math & Logic,0
-OOP Design,0
+Tree,0
+DFS,0
+BFS,0
+Union Find,0
+Graph,0
+Design,0
+Topological Sort,0
+Trie,0
+Binary Indexed Tree,0
+Segment Tree,0
+Binary Search Tree,5
 Recursion,0
-Dynamic Programming,1
-System Design & Scalibility,0
-Sorting & Searching,0
-Testing,0
-Concept: C/C++,0
-Concept: Java,0
-Database,0
-Threads & Locks,0
+Brainteaser,0
+Memoization,0
+Min Max,0
+Reservoir Sampling,0
+Geometry,0
+Map,0
+Random,0
+Rejection Sampling,0
