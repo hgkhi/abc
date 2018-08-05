@@ -1,37 +1,30 @@
 Topic,Sessions
+String,2
+Sorting,0
+Search,0
+Graph Theory,0
+Greedy,0
+Dynamic Programming,4
+Divide & Conquer,0
+Backtracking,0
+Bit Manipulation,0
+Recursion,0
+Constructive Algorithms,0
+Game Theory,0
+NP Complete,0
+Geometry,0
+Math,0
 Array,5
 Hash Table,0
 Linked List,4
-Math,0
-Two Pointers,0
-String,2
-Binary Search,0
-Divide & Conquer,0
-Dynamic Programming,4
-Backtracking,0
+Trees,0
 Stack,5
 Queue,5
 Heap,0
-Greedy,0
-Sort,0
-Bit Manipulation,0
-Tree,0
-DFS,0
-BFS,0
-Union Find,0
-Graph,0
-Design,0
-Topological Sort,0
+Union Find Set,0
 Trie,0
 Binary Indexed Tree,0
 Segment Tree,0
-Binary Search Tree,5
-Recursion,0
-Brainteaser,0
-Memoization,0
-Min Max,0
-Reservoir Sampling,0
-Geometry,0
-Map,0
-Random,0
-Rejection Sampling,0
+Suffix Tree,0
+Suffix Array,0
+Design,0
